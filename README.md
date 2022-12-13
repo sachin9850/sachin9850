@@ -1,4 +1,4 @@
-[![MasterHead](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg)]
+![MasterHead](https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg)
 
 <h1 align="center">Hi 👋, I'm Sachin Khandbahale</h1>
 <h3 align="center">Aspiring Data Scientist From India</h3>
