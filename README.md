@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin9850&label=Profile%20views&color=0e75b6&style=flat" alt="sachin9850" /> </p>
 
-- 💻I’m currently learning **Machine learning | Deep learning**  
+- 🌱 I’m currently learning **Machine learning | Deep learning**  
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachin9850](https://github.com/sachin9850)
 
